@@ -1,2 +1,0 @@
-# Nodejsfirstapp
-Created with CodeSandbox
